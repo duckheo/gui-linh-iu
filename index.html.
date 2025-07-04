@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gửi Linh 💖</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffe0ec, #ffe0f7);
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background: white;
+      padding: 2rem;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(255, 105, 180, 0.4);
+      text-align: center;
+      max-width: 400px;
+    }
+
+    h1 {
+      color: #ff69b4;
+      margin-bottom: 1rem;
+    }
+
+    .intro {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    details {
+      margin: 1rem 0;
+      border: 2px solid #ff69b4;
+      border-radius: 12px;
+      padding: 1rem;
+      background-color: #fff0f5;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: bold;
+      color: #ff1493;
+      font-size: 1.1rem;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin-top: 1rem;
+    }
+
+    li {
+      margin: 0.5rem 0;
+    }
+
+    .confess-text {
+      font-size: 1.2rem;
+      color: #d6336c;
+      margin-top: 1rem;
+    }
+
+    .fireworks {
+      font-size: 2rem;
+      margin-top: 1.5rem;
+      color: #ff69b4;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gửi Linh 💌</h1>
+    <p class="intro">Từ ngày gặp em, trái tim anh như có ngàn con bướm rung rinh...</p>
+
+    <details>
+      <summary>Lý do Huy thích Linh 💗</summary>
+      <ul>
+        <li>Nụ cười của em khiến mọi thứ trở nên tươi đẹp hơn 🌸</li>
+        <li>Mỗi lần em nhắn tin là tim anh đập nhanh hơn 🥰</li>
+        <li>Em thông minh, dễ thương, và tuyệt vời theo cách rất riêng 💎</li>
+        <li>Ở bên em, anh thấy mình hạnh phúc thật sự ❤️</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Lời tỏ tình 💘</summary>
+      <p class="confess-text">
+        Linh ơi, Huy thích em nhiều lắm...<br>
+        Làm người yêu anh nhé? 💞
+      </p>
+
+      <div class="fireworks">
+        🎆🎇💥💖💞💓💗💝
+        <p>Yayyy! Em đồng ý rồi 🥳</p>
+      </div>
+    </details>
+  </div>
+</body>
+</html>
